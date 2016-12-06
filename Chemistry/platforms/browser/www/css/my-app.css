@@ -1,0 +1,19 @@
+.multiline{
+   overflow: initial;
+   white-space: normal;
+   max-width: none;
+   width: 100%;
+}
+
+
+.tablevisu{
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid black;
+  font-family:serif;
+}
+
+sub{
+  vertical-align: sub !important;
+  font-size: smaller !important;
+}
